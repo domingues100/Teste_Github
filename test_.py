@@ -36,4 +36,4 @@ def test_compare():
         lista.append(n)
         erro = True
 
-  assert erro ==  False, f"erros nas linhas {lista}"
+  assert erro ==  False, f"erros quando n(#) = {lista}"
