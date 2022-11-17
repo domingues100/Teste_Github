@@ -1,3 +1,5 @@
+#Gabriel Montagni Domingues Filho - 11800903
+
 dados = []
 arquivo =open("test.txt", 'r')
 for lines in arquivo:
